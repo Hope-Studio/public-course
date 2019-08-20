@@ -20,8 +20,8 @@
 
 ### 支付宝
 
-![图片1](https://raw.githubusercontent.com/GodofHope/physics/master/donate/Alipay.png)
+![图片1](https://raw.githubusercontent.com/GodofHope/publicCourse/master/donate/Alipay.png)
 
 ### 微信
 
-![图片2](https://raw.githubusercontent.com/GodofHope/physics/master/donate/Wechat.png)
+![图片2](https://raw.githubusercontent.com/GodofHope/publicCourse/master/donate/Wechat.png)
