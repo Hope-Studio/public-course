@@ -8,6 +8,7 @@
 
 ## 包含内容
 
+- 高等数学
 - 化学概论 B
 
 ## 内容扩充
@@ -22,8 +23,8 @@
 
 ### 支付宝
 
-![图片1](https://raw.githubusercontent.com/Mister-Hope/publicCourse/master/donate/Alipay.png)
+![支付宝](https://raw.githubusercontent.com/Hope-Studio/public-course/main/donate/alipay.jpg)
 
 ### 微信
 
-![图片2](https://raw.githubusercontent.com/Mister-Hope/publicCourse/master/donate/Wechat.png)
+![微信](https://raw.githubusercontent.com/Hope-Studio/public-course/main/donate/wechat.png)
